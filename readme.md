@@ -1,3 +1,4 @@
-# Bootstrap & SASS Kick start projekt
+# Kickstarter
 
-Klon dette projekt og kom hurtigt i gang med dit næste projekt.
+Download projektet som ZIP-fil
+Åben projektet og kør kommandoen "npm install" i terminalen

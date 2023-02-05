@@ -1,8 +1,0 @@
-npm init
-npm i --save-dev sass
-npm i bootstrap
-
-
-"scripts": {
-    "sass": "sass --watch --update --style=compressed css:css"
-},
