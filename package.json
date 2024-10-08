@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "setup": "npm install && npm run sass",
     "sass": "sass --watch --update --style=compressed css:css"
   },
   "author": "",
