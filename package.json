@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.6"
   },
   "devDependencies": {
-    "sass": "^1.71.0"
+    "sass": "1.78.0"
   }
 }
